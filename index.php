@@ -1,5 +1,5 @@
 <?php
 
-echo "Selamat Hari Raya"
+echo "Selamat Hari Raya Aidilfitri"
 
 ?>
